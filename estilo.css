@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    width: 80%; /* O el porcentaje que prefieras para limitar el ancho */
+    margin: 0 auto; /* Centra el body en la página */
+    font-family: "Roboto Slab", serif;
+}
+header {
+    text-align: center; /* Centra el contenido dentro del header */
+}
+main {
+    width: 550px;
+    margin: auto;
+}
+p {
+    color: #000000;
+     font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+h1, h3 {
+    color: #0a2ff1;
+    font-weight: 700;
+    font-style: normal;
+}
+.boton {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0a2ff1;
+    color: white;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+hr{
+    background-color: #000000;
+    width: 700px;
+    height: 15px;
+}
